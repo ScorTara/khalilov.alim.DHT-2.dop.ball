@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">khalilov.alim</string>
+    <string name="nnn">NNN</string>
+    <string name="up">Up</string>
+    <string name="circle">Circle</string>
+    <string name="_3_days">3 days</string>
+    <string name="_20_21_06">20:21:06</string>
+    <string name="square">Square</string>
+    <string name="star">Star</string>
+    <string name="johann_wolfgang_von_goethe">- Johann Wolfgang von Goethe</string>
+    <string name="ranks">Ranks</string>
+    <string name="it_s_not_enough_to_want_you_have_to_do_something">“It’s not enough to want, you have to do something.”</string>
+    <string name="_0_day">0 day</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="mammers_are_face_of_man">“Mammers are face of man!””</string>
+    <string name="harry_hart">- Harry Hart</string>
+    <string name="ranks">Ranks</string>
+    <string name="ranks">Ranks</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="rectangle3">Rectangle3</string>
+    <string name="rectangle4">TODO</string>
+    <string name="rectangle5">Rectangle5</string>
+    <string name="rectangle1">Rectangle1</string>
+    <string name="rectangle6">Rectangle6</string>
+    <string name="rectangle7">Rectangle7</string>
+    <string name="rectangle8">Rectangle8</string>
+    <string name="noob">Noob</string>
+    <string name="iron_hand">Iron Hand</string>
+    <string name="_1_day">1 day</string>
+    <string name="_3_days">3 days</string>
+    <string name="rectangle_xz_kakoy">Rectangle xz kakoy</string>
+    <string name="john_snow">John Snow</string>
+    <string name="days">3 Days</string>
+    <string name="day">1 Day</string>
+    <string name="_14_days">14 Days</string>
+    <string name="hulk">Hulk</string>
+    <string name="_7_days">7 Days</string>
+    <string name="bro_wtf">BRO WTF!?</string>
+    <string name="_1000_days">1000 Days</string>
+    <string name="refeshka">refeshka</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
